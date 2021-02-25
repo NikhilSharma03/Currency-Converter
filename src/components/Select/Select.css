@@ -1,0 +1,16 @@
+.converter__container--select {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  width: 15rem;
+  border-radius: 0.5rem;
+  font-weight: bold;
+  background-color: #ccc;
+  color: #141414;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  /* display: none; */
+}

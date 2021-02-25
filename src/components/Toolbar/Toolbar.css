@@ -1,0 +1,27 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header--image__container {
+  margin-left: 2rem;
+  padding: 2.5rem;
+  display: flex;
+  align-items: center;
+}
+
+.header--image__container-img {
+  height: 5rem;
+}
+
+.header--image__container-label {
+  margin-left: 2rem;
+  font-size: 1.75rem;
+  font-weight: bold;
+  color: white;
+}
+
+.header--nav {
+  align-self: stretch;
+}

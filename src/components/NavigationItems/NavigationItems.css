@@ -1,0 +1,21 @@
+.navigation__ul {
+  height: 100%;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  margin-right: 2rem;
+}
+
+.navigation__ul--li a {
+  padding: 1rem;
+  margin-right: 2rem;
+  font-size: 1.5rem;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  outline: none;
+}
+
+.navigation__ul--li a:hover {
+  color: #ccc;
+}
