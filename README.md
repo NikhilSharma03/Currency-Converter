@@ -21,3 +21,10 @@ npm install
 ```
 npm start
 ```   
+
+## Built With
+
+- ReactJs
+- Redux
+- Firebase
+- CSS
