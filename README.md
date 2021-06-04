@@ -6,7 +6,7 @@ Online web application to store compare currency.
 
 - A header section with the logo.
 - Supports over 32 currencies.
-- Web api.
+- Used Web API for the data.
 
 ## Demo
 
@@ -24,7 +24,7 @@ npm start
 
 ## Built With
 
-- ReactJs
+- ReactJS
 - Redux
 - Firebase
 - CSS
