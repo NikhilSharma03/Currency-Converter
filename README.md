@@ -8,7 +8,7 @@ Online web application to compare currency.
 - Supports over 32 currencies.
 - Used Web API for the data.
 
-## Demo
+## Website
 
 https://onlinecurrencyconverterapp.web.app/
 
