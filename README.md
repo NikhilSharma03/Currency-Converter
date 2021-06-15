@@ -28,3 +28,4 @@ npm start
 - Redux
 - Firebase
 - CSS
+- Axios
