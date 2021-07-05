@@ -1,7 +1,9 @@
 # Currency Converter
 <div align="center">
   
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/NikhilSharma03/Currency-Converter)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/NikhilSharma03/Currency-Converter)   
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/NikhilSharma03/Currency-Converter) 
+
 
 ## Description
 
