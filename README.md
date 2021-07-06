@@ -7,7 +7,6 @@
 
 </div>
 
-
 ## Description
 
 Online web application to compare currency.
