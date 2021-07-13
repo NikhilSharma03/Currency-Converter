@@ -9,7 +9,7 @@
 
 ## Description
 
-Online web application to compare currency.
+It is an online web application to compare currency.
 
 - A header section with the logo.
 - Supports over 32 currencies.
