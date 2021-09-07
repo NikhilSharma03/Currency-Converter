@@ -1,10 +1,5 @@
 # Currency Converter
 
-<div align="center">
-
-
-</div>
-
 ## Description
 
 An online web application to compare currency.
