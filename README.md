@@ -27,5 +27,3 @@ npm start
 - ReactJS
 - Redux
 - Firebase
-- CSS
-- Axios
