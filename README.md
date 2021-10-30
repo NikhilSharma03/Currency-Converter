@@ -7,6 +7,7 @@ Online web 💻 application to compare currency 💰.
 - A header section with the logo.
 - Supports over 32 currencies.
 - Used REST API for the data.
+- Animations
 
 ## Website
 
